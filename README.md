@@ -12,4 +12,4 @@ To install the tool execute all the commands in your terminal:
 6. `python3 main.py`
 
 # Usage
-If you wish to know how this tool works checkout my YouTube for a detailed tutorial. https://youtube.com/c/MysteriousK69
+If you wish to know how this tool works checkout my YouTube for a detailed tutorial. https://youtu.be/4-vSuFJKvf4
