@@ -1,4 +1,4 @@
-# Discord-Nitro-Generator
+# Ez Nitro
 This is a tool made by me. You can generate Discord nitro codes ezily using this tool.
 
 # Installation
